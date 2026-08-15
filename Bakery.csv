@@ -1,0 +1,12 @@
+productid,productname,productprice(in Rs),quantity(in kg)
+1,cake,700,15.0
+2,rusk,500,20.0
+3,biscuits,600,8.0
+4,buns,100,20.0
+5,muffin,750,10.0
+6,cream role,150,5.0
+7,apple pie,1000,11.0
+8,patties,400,14.0
+9,pastry,1000,9.0
+10,breads,100,19.0
+11,croissant,700,11.5

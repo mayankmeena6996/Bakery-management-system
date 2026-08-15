@@ -1,0 +1,11 @@
+billid,name,billingdate,orderamount,details,qty(in Kg)
+1,Mayank meena,29/09/2024,1000.0,rusk,2.0
+2,Ram,1/10/2024,1000.0,apple pie,1.0
+3,jatin,1/10/2024,200.0,breads,2.0
+4,rahul,07/10/2024,1200.0,biscuits,2.0
+5,kanishk,10/10/2024,450.0,cream role,3.0
+6,Mayank Saini,03/10/2024,500.0,pastry,0.5
+7,Anmol,1/12/2024,100.0,breads,1.0
+8,Pulkit Sharma,06/06/2024,1500.0,rusk,3.0
+9,Alok,02/10/2024,400.0,buns,4.0
+10,ajay,07/10/2024,400.0,buns,4.0
